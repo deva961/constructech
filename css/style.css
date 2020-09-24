@@ -5,7 +5,7 @@
 }
 /*---------------Navigation------------------*/
 .title-nav{
-    background-image: linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/bg-image-min.jpg");
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0)), url("images/bg-image-min.jpg");
     align-items: center;
     justify-items: center;
     background-repeat: no-repeat;
